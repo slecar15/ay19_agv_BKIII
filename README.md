@@ -1,2 +1,7 @@
-# ay19_agv
-Base repo for AY19 AGV projects (XE401)
+# Black Knight III AGV
+CDT Harrison Gudorf
+CDT Ryan O'Connell
+CDT Carlie Sleeman
+CDT William Smith
+CDT Rami Stokes
+CDT Conner Ziegler
